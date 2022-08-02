@@ -1,4 +1,4 @@
-package in.ac.charusat.studentmgmtsystem.controller;
+package in.ac.charusat.studentmgmtsystem.model.controller;
 
 import in.ac.charusat.studentmgmtsystem.model.Student;
 import in.ac.charusat.studentmgmtsystem.repository.StudentRepository;
